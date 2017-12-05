@@ -32,7 +32,7 @@
     			include             golf-lua/server.conf;
     		}
     	
-###  同时提供外部rpc接口
+###  rpc接口
 	
 
 		public interface DenyIpApi
